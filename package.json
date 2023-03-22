@@ -1,0 +1,14 @@
+{
+	"name": "com.droid-23",
+	"displayName": "droid-23",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"author": "Do Hoang Than",
+	"description": "Character",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thandh-3171/droid-23.git"
+	}
+}
